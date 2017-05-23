@@ -1,0 +1,11 @@
+{
+  "properties": [
+    { "name" : "force_update", "value" : "false" },
+    { "name" : "current_version", "value" : "1.0426" },
+    { "name" : "link_ArbuckleMenu", "value" : "http://stanfordgsb.cafebonappetit.com/" },
+    { "name" : "link_CampusMap", "value" : "https://campus-map.stanford.edu/" },
+    { "name" : "link_PrivacyPolicy", "value" : "https://www.gsb.stanford.edu/privacy-policy/" },
+    { "name" : "link_HelpAndSupport", "value" : "https://helpsu.stanford.edu/helpsu/3.0/helpsu-form?portal=GSB" },
+    { "name" : "link_SubmitFeedback", "value" : "https://docs.google.com/a/stanford.edu/forms/d/e/1FAIpQLSdwwcgxxbj6oK05JTrPayq2p2ZZXdI5MOHLYmgQJCcfCwlMnw/viewform?usp=pp_url&entry.1775110501&entry.1867590040&entry.420168894=iOS" }
+  ]
+}
