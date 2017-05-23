@@ -1,5 +1,6 @@
 {
   "properties": [
+    { "name" : "base_url", "value" : "http://api-qa.gsb.stanford.edu" },
     { "name" : "force_update", "value" : "false" },
     { "name" : "current_version", "value" : "1.0426" },
     { "name" : "link_ArbuckleMenu", "value" : "http://stanfordgsb.cafebonappetit.com/" },
